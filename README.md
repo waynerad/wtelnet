@@ -583,12 +583,6 @@ Abbreviations:
 
 - ^D log off
 
-
-The problem description said you're looking for "Creativity!" Well, one little
-bit of creativity I threw in here was commands like "think" and "sing". Although
-they won't be used often, when they are they should make the chat experience
-more fun!
-
 One quirk about this user interface is that you can't type blank lines. I
 decided to do it that way to make the screen contain more of an "unbroken"
 scrolling transcript of the conversation. Of course, it is still possible to
@@ -597,8 +591,7 @@ But at least it won't be broken up by blank lines. The downside is that users
 expect from other systems to be able to type blank lines to see if the system
 is listening.
 
-One other thing I did for creativity was put a limit on the number of people on
-a channel. I've noticed in real life conversations, once the size of a group
+I've noticed in real life conversations, once the size of a group
 gets to about 6 or more, it always seems to split into sub-conversations of 2 or
 3 people. So I made 6 the limit to the number of people on a channel.
 
