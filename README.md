@@ -655,8 +655,8 @@ arguments either way.
 1. The biggest limitation is that the system can only handle about ~3,000
 simultaneous users before "connection reset by peer" errors start occurring.
 After putting in some effort at figuring out what caused this, I decided to stop
-trying to figure out the cause and send the code in that I have, due to time
-considerations. It appered that determining the cause of this error was not
+trying to figure out the cause.
+It appered that determining the cause of this error was not
 straightforward and could take a lot of time. Simple Google searches on the
 error had failed to reveal anything enlightening. How much more effort would be
 involved? The worst-case scenario would involve digging through the source code
